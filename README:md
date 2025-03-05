@@ -1,0 +1,23 @@
+Es soll eine Anwendung gebaut werden, die wie der Sprintmonitor ist, denn du schon gesehen hast.
+Es soll eine Datenbank geben.
+Diese Datenbank soll verschiedene Daten aufbewahren können:
+- Benutzer
+    - Name
+- Zeiten
+    -
+- Projekte
+    - Name
+- Planung einer Woche
+    - Projekt
+    - Benutzer
+    - Zeit
+
+Am Anfang sollen einmal alle Benutzer angelegt werden.Als Beispiel alle Mitarbeiter der X Unternehmen
+Dann sollen verschiedene Projekte angelegt werden
+Für eine Woche sollen Zeiten für alle Benutzer geplant werden.
+Am Ende soll angezeigt werden wie viel Zeit welcher Benutzer auf welchem Projekt gebucht ist.
+
+
+Tabellen, Zeiten und Plan brauchen jeweils weitere Felder:
+Die Zeitentabelle muss um ein Datum ergänzt werden
+Die Plantabell braucht die Information von wann bis wann der Plan gemacht wurde
